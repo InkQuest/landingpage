@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "Rammetto One-Regular";
+    src: url("../../fonts/RammettoOne-Regular.ttf");
+}
+@font-face {
+    font-family: "Poppins-Medium";
+    src: url("../../fonts/Poppins-Medium.ttf");
+}
+@font-face {
+    font-family: "Poppins-SemiBold";
+    src: url("../../fonts/Poppins-SemiBold.ttf");
+}
+@font-face {
+    font-family: "Poppins-Bold";
+    src: url("../../fonts/Poppins-Bold.ttf");
+}
+@font-face {
+    font-family: "Poppins-Regular";
+    src: url("../../fonts/Poppins-Regular.ttf");
+}
+@font-face {
+    font-family: "Poppins-Italic";
+    src: url("../../fonts/Poppins-Italic.ttf");
+}
+@font-face {
+    font-family: "Roboto-Thin";
+    src: url("../../fonts/Roboto-Thin.ttf");
+}
+@font-face {
+    font-family: "Poppins-Light";
+    src: url("../../fonts/Poppins-Light.ttf");
+}
+@font-face {
+    font-family: "CookieRun Bold";
+    src: url("../../fonts/CookieRun Bold.otf");
+}
+@font-face {
+    font-family: "CookieRun Regular";
+    src: url("../../fonts/CookieRun Regular.otf");
+}
