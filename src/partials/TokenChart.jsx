@@ -64,8 +64,8 @@ const TokenChart = () => {
           show: true,
 
           overflow: "break",
-          width: 190,
-          height: 54,
+          width: 200,
+          height: 30,
           formatter: ({ value, name }) =>
             "{name|" + name + ": }\n{value|" + value + "M}",
           rich: {
@@ -166,7 +166,7 @@ const TokenChart = () => {
               style={{
                 height: "550px",
                 width: "100%",
-                maxWidth: "800px",
+                maxWidth: "850px",
               }}
             />
           </div>

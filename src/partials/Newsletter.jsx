@@ -99,7 +99,7 @@ function Newsletter() {
               {/* CTA content */}
               <div className="text-center lg:text-left lg:max-w-xl">
               <Element name="five" className="element">
-                <h3 className="h3 text-white mb-2">Join FundOnSUI Community</h3>
+                <h3 className="h3 text-white mb-2">Join FundonSUI Community</h3>
                 </Element>
                 <p className="text-gray-300 text-lg mb-6">
                   Sign up for follow, meet on Discord or get updates.
