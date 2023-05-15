@@ -41,16 +41,16 @@ function HeroHome() {
 
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
         {/* Hero content */}
-        <div className="pt-32 pb-12 md:pt-40 md:pb-20">
+        <div className="pt-32 pb-12 md:pt-48 md:pb-16">
           {/* Section header */}
           <div className="text-center pb-12 md:pb-16">
             <h1
               className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4"
               data-aos="zoom-y-out"
             >
-              Crowdfunding on{" "}
+              Growing Web3 user on
               <div className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">
-                SUI blockchain!
+                Ink! ecosystem
               </div>
             </h1>
             <div className="max-w-3xl mx-auto">
@@ -59,9 +59,9 @@ function HeroHome() {
                 data-aos="zoom-y-out"
                 data-aos-delay="150"
               >
-                Crowdfunding on FundOnSui using smart contract technology to
-                build a safe, fast and global crowdfunding service - with a new
-                NFT model - dynamic on-chain assets.
+                InkQuest is a decentralized platform base on the Ink! ecosystem
+                for efficient task completion in Web3. Collaborate, align
+                interests, and earn.
               </p>
               {/* <div
                 className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center"
@@ -89,7 +89,6 @@ function HeroHome() {
           </div>
 
           {/* Hero image */}
-          
         </div>
       </div>
     </section>

@@ -39,7 +39,7 @@ function Footer() {
 
           {/* Copyrights note */}
           <div className="text-sm t
-          ext-gray-600 mr-4">Made by FundonSUI. All rights reserved.</div>
+          ext-gray-600 mr-4">Made by InkQuest. All rights reserved.</div>
 
         </div>
 

@@ -1,5 +1,5 @@
 import React from "react";
-import {Element} from 'react-scroll'
+import { Element } from "react-scroll";
 
 function FeaturesBlocks() {
   return (
@@ -14,9 +14,9 @@ function FeaturesBlocks() {
         <div className="py-12 ">
           {/* Section header */}
           <Element name="second" className="element">
-          <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">What makes CrowdFund NFT different?</h2>
-          </div>
+            <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
+              <h2 className="h2 mb-4">What InkQuest solving?</h2>
+            </div>
           </Element>
           {/* Items */}
           <div className="max-w-sm mx-auto grid gap-6 md:grid-cols-2 lg:grid-cols-3 items-start md:max-w-2xl lg:max-w-none">
@@ -57,11 +57,11 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">
-                Proof of participation
+                The Ink! ecosystem
               </h4>
               <p className="text-gray-600 text-center">
-                NFTs provide proof of participation to backers, as an early
-                contributor and claim the rewards
+                Multi-chain supporting and developing the user community within
+                the Ink! ecosystem (Aleph Zero,…).
               </p>
             </div>
 
@@ -99,11 +99,12 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">
-                Fast, low fees, global
+                Transaction Growth
               </h4>
               <p className="text-gray-600 text-center">
-                Using the SUI Blockchain allows open up crowdfunding round to a
-                global audience, cheaply and quickly.
+                along with the production trail and
+                adoption process, leads to an increase in asset volume and
+                trading frequency.
               </p>
             </div>
 
@@ -134,11 +135,11 @@ function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">
-                Safe & secure
+                Campaign problems
               </h4>
               <p className="text-gray-600 text-center">
-                With smart contract, funds management systems to assure
-                automatic triggers for fund releases and NFT disbursements.
+                Improved audience targeting, anti-bot measures, versatile task
+                templates, and automated verification.
               </p>
             </div>
           </div>

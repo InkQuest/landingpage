@@ -10,6 +10,7 @@ import Footer from '../partials/Footer';
 import Banner from '../partials/Banner';
 import TokenChart from '../partials/TokenChart';
 import Roadmap from '../partials/Roadmap';
+import Teams from '../partials/Team';
 
 function Home() {
   return (
@@ -26,7 +27,7 @@ function Home() {
         {/* <FeaturesHome /> */}
         <FeaturesBlocks />
         <Roadmap />
-        <TokenChart/>
+        <Teams/>
         <Newsletter />
 
       </main>

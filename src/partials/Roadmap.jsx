@@ -49,7 +49,7 @@ function Roadmap() {
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <h2 className="h2 mb-4">Roadmap</h2>
             <p className="text-xl text-gray-600" data-aos="zoom-y-out">
-              FundonSUI launch fully focus on this timeline details.
+              InkQuest launch fully focus on this timeline details.
             </p>
           </div>
           </Element>
